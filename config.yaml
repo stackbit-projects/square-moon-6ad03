@@ -14,7 +14,7 @@ params:
       - label: Latte Art
         url: /features
         style: link
-      - label: Pricing
+      - label: Brewing
         url: /pricing
         style: link
       - label: Style Guide
