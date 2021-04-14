@@ -11,7 +11,7 @@ params:
       - label: Home
         url: /
         style: link
-      - label: Features
+      - label: Latte Art
         url: /features
         style: link
       - label: Pricing
